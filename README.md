@@ -2,7 +2,7 @@
 ![Boston Housing Authority - Boston Housing Authority](https://th.bing.com/th/id/OIP.8dyvyYEjoyuVgd7Gse4V3gHaGj?pid=ImgDet&rs=1)
 ## Objective
 - To perform neccessary exploratory data analysis to know some interesting fact about Boston neighbourhoods out of this dataset.
-- Create a model using the linear regression to predict the price when user inputs the variables.
+- Create a model using the multiple linear regression to predict the price when user inputs the variables.
 ##  About the dataset
 The Boston Housing Dataset is a derived from information collected by the U.S. Census Service concerning housing in the area of Boston MA.  It was originally from UCI Machine Learning Repository but now it has been deleted. This dataset consist of  506 samples and 14 variables. The following describes the dataset columns:
 - CRIM - per capita crime rate by town
